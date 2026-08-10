@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
