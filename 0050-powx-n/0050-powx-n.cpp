@@ -1,17 +1,24 @@
 class Solution {
 public:
-    double myPow(double x, long long n) {
-        if(n == 0)
+    double myPow(double x, int n) {
+        // This is the recursive way using binary 
+        // exponentiaton
+        long long N = n;
+        if(n < 0)
         {
+            x = 1 / x;
+            N = -N;
+        }
+        if(n == 0){
             return 1;
         }
-        if(n < 0){
-            return myPow(1/x,-n);
+        double result = myPow(x, N/2);
+        
+        double ans = result * result;
+
+        if(N % 2 == 1){
+            return x * ans;
         }
-        if(n % 2 == 0)
-        {
-            return myPow(x*x,n/2);
-        }
-        return x*myPow(x*x, (n-1)/2);
+        return ans;
     }
 };
