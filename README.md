@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0001-two-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0050-powx-n) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -49,9 +51,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0050-powx-n) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
