@@ -1,19 +1,16 @@
 class Solution {
 public:
+// This is the recursion soln
+    int findindx(int n, int k){
+        if(n == 1){
+            return 0;
+        }
+       int indx = findindx(n-1,k);
+       indx = (indx + k)%n;
+       return indx;
+    }
     int findTheWinner(int n, int k) {
-        vector<int> temp;
-        int i = 1;
-        while(i <= n){
-            temp.push_back(i);
-            // cout<<temp<<endl;
-            i++;
-        }
-        i = 0;
-        while(temp.size() != 1){
-            i = (i+k-1)%temp.size();
-            temp.erase(temp.begin()+i);
-        }
-        int ans = temp[0];
-        return ans;
+        int ans  = findindx(n,k);
+        return ans + 1;
     }
 };
