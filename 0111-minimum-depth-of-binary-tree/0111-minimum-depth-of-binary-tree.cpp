@@ -12,40 +12,25 @@
 class Solution {
 public:
     int minDepth(TreeNode* root) {
-        queue<TreeNode*> que;
+        //Using DFS
         if(root == nullptr)
         {
             return 0;
         }
-        que.push(root);
         if(root->left == nullptr && root->right == nullptr)
         {
             return 1;
         }
-        int ans = 0;
-        while(!que.empty())
+        int l = INT_MAX;
+        int r = INT_MAX;
+        if(root->left != nullptr)
         {
-            ans++;
-            int siz = que.size();
-            while(siz > 0)
-            {
-                TreeNode* node = que.front();
-                que.pop();
-                if(node->left == nullptr && node->right == nullptr)
-                {
-                    return ans;
-                }
-                if(node->left != nullptr)
-                {
-                    que.push(node->left);
-                }
-                if(node->right != nullptr)
-                {
-                    que.push(node->right);
-                }
-                siz--;
-            }
+           l =  minDepth(root->left);
         }
-        return ans;
+        if(root->right != nullptr)
+        {
+           r =  minDepth(root->right);
+        }
+        return min(l,r)+1;
     }
 };
