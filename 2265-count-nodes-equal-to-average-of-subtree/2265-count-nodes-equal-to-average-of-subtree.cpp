@@ -10,33 +10,46 @@
  * right(right) {}
  * };
  */
-class Solution {
-public:
-    int ans;
-    int Sum(TreeNode* root, int &count) {
-        if(root == nullptr) {
-            return 0;
+    // This is an optimal approach
+    // TC = O(n)  ,  SC = O(1)
+
+    // Approach-2 (Doing postorder traversal)
+    // T.C : O(n)
+    // S.C : O(1) (excluding recursion stack space)
+    class Solution {
+    public:
+        int result;
+
+        pair<int, int> solve(TreeNode* root) {
+            if (!root)
+                return {0, 0};
+
+            pair<int, int> l = solve(root->left);
+            pair<int, int> r = solve(root->right);
+
+            int leftSum = l.first;
+            int leftCount = l.second;
+
+            int rightSum = r.first;
+            int rightCount = r.second;
+
+            int SUM = leftSum + rightSum + root->val;
+            int COUNT = leftCount + rightCount + 1;
+
+            int avg = SUM / COUNT;
+
+            if (avg == root->val) {
+                result++;
+            }
+
+            return {SUM, COUNT};
         }
-        count++;
-        int l = Sum(root->left, count);
-        int r = Sum(root->right, count);
-        return l+r+root->val;
-    }
-    void solve(TreeNode* root) {
-        if(root == nullptr) {
-            return;
+
+        int averageOfSubtree(TreeNode* root) {
+            result = 0;
+
+            solve(root);
+
+            return result;
         }
-        int count = 0;
-        int totalSum = Sum(root,count);
-        if(root->val == totalSum/count) {
-            ans++;
-        }
-        solve(root->left);
-        solve(root->right);
-    }
-    int averageOfSubtree(TreeNode* root) {
-        ans = 0;
-        solve(root);
-        return ans;
-    }
-};
+    };
