@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0392-is-subsequence) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Two Pointers
 |  |
@@ -62,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Queue
