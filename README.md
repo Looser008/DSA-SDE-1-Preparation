@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0836-rectangle-overlap](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Trie
 |  |
 | ------- |
