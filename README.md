@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0392-is-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
 | ------- |
