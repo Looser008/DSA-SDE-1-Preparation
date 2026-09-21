@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3870-count-commas-in-range) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
 |  |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
