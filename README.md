@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3870-count-commas-in-range) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -162,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
