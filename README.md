@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0877-stone-game) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3731-find-missing-elements) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0001-two-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3731-find-missing-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0392-is-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
