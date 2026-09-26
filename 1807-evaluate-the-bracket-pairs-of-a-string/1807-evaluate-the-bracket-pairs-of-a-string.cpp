@@ -1,31 +1,34 @@
 class Solution {
 public:
+    // This is using an extra space
     string evaluate(string s, vector<vector<string>>& nums) {
         unordered_map<string,string> map;
         for(int i = 0; i < nums.size(); i++) {
             map[nums[i][0]] = nums[i][1];
         }
-        // for(auto itr = map.begin(); itr != map.end(); itr++)
-        // {
-        //     cout<<itr->first<<"  "<<itr->second<<endl;
-        // }
-        for(int i = 0; i < s.length(); i++) {
-
+        string ans = "";
+        for(int i = 0; i < s.length(); i++)
+        {
             if(s[i] == '(')
             {
-                int j = i+1;
                 string temp = "";
-                while(s[j] != ')')
-                {
+                int j = i+1;
+                while(s[j] != ')') {
                     temp += s[j];
                     j++;
                 }
-               if (map.find(temp) != map.end())
-                    s.replace(i, j - i + 1, map[temp]);
-                else
-                    s.replace(i, j - i + 1, "?");
+                if(map.find(temp) == map.end()){
+                    ans += '?';
+                }
+                else{
+                    ans += map[temp];
+                }
+                i = j;
+            }
+            else{
+                ans += s[i];
             }
         }
-        return s;
+        return ans;
     }
 };
