@@ -1,14 +1,25 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(t.begin(), t.end());
-        sort(s.begin(), s.end());
-        int i = 0;
-        while(i < t.length()) {
-            if(s[i] != t[i]) {
+        /// Doing it using hashmap method
+
+        /*
+        store all the values in map
+        retrieve that value whose count is one
+        */
+
+        unordered_map<char, int> map;
+
+        for(int i = 0; i < s.length(); i++) {
+            map[s[i]]++;
+        }
+
+        for(int i = 0; i < t.length(); i++) {
+            map[t[i]]--;
+            if(map[t[i]] < 0)
+            {
                 return t[i];
             }
-            i++;
         }
         return 'a';
     }
