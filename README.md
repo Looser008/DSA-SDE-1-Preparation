@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0389-find-the-difference) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3731-find-missing-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
+| [0389-find-the-difference](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0392-is-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
