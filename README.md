@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0389-find-the-difference](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0392-is-subsequence) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0145-binary-tree-postorder-traversal) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Geometry
 |  |
 | ------- |
