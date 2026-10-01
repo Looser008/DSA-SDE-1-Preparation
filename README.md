@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0389-find-the-difference](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0389-find-the-difference) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0145-binary-tree-postorder-traversal) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Geometry
