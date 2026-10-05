@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
+| [0292-nim-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0292-nim-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0877-stone-game) |
@@ -136,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -178,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
