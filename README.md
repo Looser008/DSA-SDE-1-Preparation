@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0389-find-the-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0292-nim-game) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
