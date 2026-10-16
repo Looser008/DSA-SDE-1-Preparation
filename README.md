@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0199-binary-tree-right-side-view) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0199-binary-tree-right-side-view) |
 ## Memoization
 |  |
 | ------- |
