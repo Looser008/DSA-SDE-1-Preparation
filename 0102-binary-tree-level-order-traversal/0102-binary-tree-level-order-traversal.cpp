@@ -22,16 +22,16 @@ public:
             vector<int> temp;
             int siz = que.size();
             while(siz > 0) {
-                TreeNode* node = que.front();
-                temp.push_back(node->val);
-                siz--;
+                TreeNode* nod = que.front();
+                temp.push_back(nod->val);
                 que.pop();
-                if(node->left) {
-                    que.push(node->left);
+                if(nod->left) {
+                    que.push(nod->left);
                 }
-                if(node->right) {
-                    que.push(node->right);
+                if(nod->right) {
+                    que.push(nod->right);
                 }
+                siz--;
             }
             ans.push_back(temp);
         }
