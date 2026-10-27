@@ -9,27 +9,39 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
+
+
+
+//  BFS approach
 class Solution {
 public:
-    //modifed pre order traversal
-    void preOrder(TreeNode* root, int level, vector<int>& result) {
-        if(!root)
-            return;
-        
-        if(result.size() < level)
-            result.push_back(root->val);
-        
-        preOrder(root->right, level+1, result);
-        preOrder(root->left, level+1, result);
-    }
     vector<int> rightSideView(TreeNode* root) {
-        if(!root)
-            return {};
-        
-        vector<int> result;
-        
-        preOrder(root, 1, result);
-        
-        return result;
+        vector<int> ans;
+        queue<TreeNode*> que;
+        if(root == nullptr) {
+            return ans;
+        }
+        que.push(root);
+        while(!que.empty()) {
+            int siz = que.size();
+            int i = 0;
+            while(i < siz) {
+                TreeNode* nod = que.front();
+                if(i == siz-1) {
+                    ans.push_back(nod->val);
+                }
+                que.pop();
+                if(nod->left){
+                    que.push(nod->left);
+                }
+                if(nod->right){
+                    que.push(nod->right);
+                }
+                i++;
+            }
+        }
+        return ans;
     }
 };
