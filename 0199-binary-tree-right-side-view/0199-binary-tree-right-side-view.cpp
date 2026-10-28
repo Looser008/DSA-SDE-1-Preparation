@@ -12,36 +12,24 @@
 
 
 
-
-
-//  BFS approach
+//  using dfs
 class Solution {
 public:
-    vector<int> rightSideView(TreeNode* root) {
-        vector<int> ans;
-        queue<TreeNode*> que;
+    vector<int> ans;
+    void solve(TreeNode* root , int depth) {
         if(root == nullptr) {
-            return ans;
+            return;
         }
-        que.push(root);
-        while(!que.empty()) {
-            int siz = que.size();
-            int i = 0;
-            while(i < siz) {
-                TreeNode* nod = que.front();
-                if(i == siz-1) {
-                    ans.push_back(nod->val);
-                }
-                que.pop();
-                if(nod->left){
-                    que.push(nod->left);
-                }
-                if(nod->right){
-                    que.push(nod->right);
-                }
-                i++;
-            }
+        if(ans.size() == depth) {
+            
+        ans.push_back(root->val);
         }
-        return ans;
+        solve(root->right,depth+1);
+        solve(root->left,depth+1);
+        return;
+    }
+    vector<int> rightSideView(TreeNode* root) {
+       solve(root, 0);
+       return ans;
     }
 };
