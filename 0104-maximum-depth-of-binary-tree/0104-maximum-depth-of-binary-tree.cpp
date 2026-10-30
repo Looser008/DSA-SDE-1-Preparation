@@ -11,20 +11,28 @@
  */
 class Solution {
 public:
-    int count = 0;
-    int ans = INT_MIN;
-    int maxDepthTree(TreeNode* root)
-    {
-      if(root == nullptr)
-      {
-        return 0;
-      }
-      int leftdepth = maxDepthTree(root->left);
-      int rightdepth = maxDepthTree(root->right);
-      count = 1+max(leftdepth, rightdepth);
-      return count;
-    }
     int maxDepth(TreeNode* root) {
-        return maxDepthTree(root);
+        if(root == nullptr) {
+            return 0;
+        }
+        queue<TreeNode*> que;
+        que.push(root);
+        int count = 0;
+        while(!que.empty()) {
+            int size = que.size();
+            while(size > 0) {
+                TreeNode* temp = que.front();
+                que.pop();
+                if(temp->left) {
+                    que.push(temp->left);
+                }
+                if(temp->right) {
+                    que.push(temp->right);
+                }
+                size--;
+            }
+            count++;
+        }
+        return count;
     }
 };
