@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0001-two-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0877-stone-game) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0779-k-th-symbol-in-grammar](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0877-stone-game) |
