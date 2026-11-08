@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0001-two-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0877-stone-game) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
