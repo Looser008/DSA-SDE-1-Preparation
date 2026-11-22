@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashu-dev199/DSA-SDE-1-Preparation/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
